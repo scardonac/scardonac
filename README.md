@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">A passionate data scientist from Colombia</h3>
 
-- 🌱 I’m currently learning **data engineering**
+- 🌱 I’m currently learning about **data engineering** and **LLM**
 
 - 📫 How to reach me **cardonasara571@gmail.com**
 
